@@ -1,0 +1,4 @@
+function create()
+{
+    getdata.user();
+}
